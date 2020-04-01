@@ -1,4 +1,7 @@
-
+'''
+Autor:Cristina Ribeiro
+Codigo: tabuada de um modo bem simples - (não da melhor maneira ainda)
+'''
 
 
 num = int(input('digite um numero inteiro: '))
